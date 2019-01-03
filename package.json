@@ -1,0 +1,12 @@
+{
+    "name": "saiprasad-m",
+    "version": "1.0.0",
+    "description": "Test Automation Architect, Blockchain implementor, Cloud expert - Azure/AWS/",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Sai Prasad M (14+ years of Diverse, ",
+    "license": "ISC"
+}
